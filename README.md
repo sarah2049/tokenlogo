@@ -1,5 +1,5 @@
 # tokenlogo
-tokenlogo.xyz
+https://tokenlogo.xyz
 
 ## Submit
 
